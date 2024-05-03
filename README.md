@@ -18,6 +18,7 @@ Text nodes: Line breaks and indentation in text are ignored.
 
 ## Example
 
-<img width="788" alt="Skærmbillede 2024-05-01 kl  12 27 46" src="https://github.com/sabr5840/HTML-Prettifier/assets/113180288/ee42dc90-beae-4c99-9298-c563cf382f1d">
+<img width="1440" alt="Skærmbillede 2024-05-03 kl  17 51 35" src="https://github.com/sabr5840/HTML-Prettifier/assets/113180288/6141f071-c0b3-4147-9179-6dfc8053f0e3">
+
 
 
